@@ -1,0 +1,20 @@
+body {
+  background-color: lightblue;
+}
+.nav-tab {
+  background-color: blue;
+  border-style: solid;
+}
+.navigation {
+  text-decoration: none;
+  color: darkorange;
+}
+.nav-tab:hover {
+  background-color: green;
+}
+#musicstyles {
+  color: hotpink;
+}
+body h2 {
+  color: hotpink;
+}
